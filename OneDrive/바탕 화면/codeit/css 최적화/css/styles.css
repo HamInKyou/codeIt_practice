@@ -1,0 +1,13 @@
+
+h2 {
+  padding: 20px;
+  font-size: 30px;
+}
+
+.container div{
+  background: #FA987D;
+}
+
+#box-two, #box-four{
+  background: #72CCA7;
+}
