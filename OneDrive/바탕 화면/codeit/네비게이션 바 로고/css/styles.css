@@ -15,9 +15,17 @@ body {
 #logo {
   font-family: serif;
   float: left;
+  line-height: 60px;
+}
 
-  /* 이건 지우세요 */
-  background-color: orange;
+#logo #logoImg{
+  vertical-align: middle;
+}
+
+.helper{
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
 }
 
 .hero-header {
@@ -29,8 +37,8 @@ body {
 }
 
 .hero-header .info {
-  /* 이건 지우세요 */
-  background-color: orange;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .hero-header .info h1 {
